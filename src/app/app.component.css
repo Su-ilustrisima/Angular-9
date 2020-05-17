@@ -1,0 +1,13 @@
+/*
+  NOTA ESTE ARCHIVO ES PARA ESTABLECER MUCHOS FORMATOS CSS A NIVEL DE PAGINA SOBRE
+  CADA MODULO CORRESPONDIENTE
+*/
+
+p, h1{
+  color:blue;
+  font-family:"Arial Narrow";
+}
+.box1{
+  width:50%;
+  background:lightcoral;
+}
